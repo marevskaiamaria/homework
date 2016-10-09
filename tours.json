@@ -7,11 +7,11 @@
 			"days": "14",
 			"price": "50000",
 			"cities": ["Athens", 
-					   "Thessaloniki",
-					   "Meteora",
-					   "Delphi",
-					   "Corinth",
-					   "Sparta"
+			           "Thessaloniki",
+				   "Meteora",
+			           "Delphi",
+				   "Corinth",
+				   "Sparta"
 			          ]
 			"stars": ["3",
 			          "4"
