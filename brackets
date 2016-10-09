@@ -1,0 +1,39 @@
+function check(str){
+var l=str.length;
+var st="";
+var stl;
+
+	for(i = 0; i<l; i++){
+		c = str.substring(i, i+1);
+		if(c == '('||c =='['||c == '{'||c == '<'){
+		st=st+c;}
+		else{
+			if(st.substring(st.length-1, st.length) == match(c)){st = st.substring(0, st.length-1);}
+			else{st=c;}
+		}
+	}
+	
+	if(st.length == 0){alert("OK");}
+	else{alert("BAD");}
+}
+
+function match(s){
+
+switch (s){
+	case ")":
+	return "(";
+	break;
+	
+    case "}":
+	return "{";
+	break;
+	
+	case "]":
+	return "[";
+	break;
+	
+	case ">":
+	return "<";
+	break;
+	}
+}
