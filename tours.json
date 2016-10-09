@@ -12,11 +12,11 @@
 			           "Delphi",
 				   "Corinth",
 				   "Sparta"
-			          ]
-			"stars": [3,
-			          4
-                                 ]	
-			"purpose": "excursions",	  
+			          ],
+			"stars": ["3",
+			          "4"
+                                 ],	
+			"purpose": "excursions"	  
 			}
 
 			{
@@ -26,9 +26,9 @@
 			"cities": ["Athens", 
 			           "Thessaloniki",
 			           "Meteora"
-			          ]
-			"stars": 3,
-			"purpose": "excursions",
+			          ],
+			"stars": "3",
+			"purpose": "excursions"
 			}
 			
 			{
@@ -36,10 +36,10 @@
 			"days": "7",
 			"price": "40000",
 			"cities": "Heraklion", 
-			"stars": 4,
+			"stars": "4",
 			"purpose": ["excursions",
 			            "sea"
-			            ]
+			            ],
 			}
 		]
 }
