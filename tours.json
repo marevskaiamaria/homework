@@ -4,8 +4,8 @@
 "tours": [
 			{
 			"name": "Greece classic",
-			"days": "14";
-			"price": "50000";
+			"days": "14",
+			"price": "50000",
 			"cities": ["Athens", 
 					   "Thessaloniki",
 					   "Meteora",
@@ -21,8 +21,8 @@
 
 			{
 			"name": "Greece briefly",
-			"days": "5";
-			"price": "30000";
+			"days": "5",
+			"price": "30000",
 			"cities": ["Athens", 
 			           "Thessaloniki",
 			           "Meteora",
@@ -33,8 +33,8 @@
 			
 			{
 			"name": "Crete",
-			"days": "7";
-			"price": "40000";
+			"days": "7",
+			"price": "40000",
 			"cities": "Heraklion", 
 			"stars": "4",
 			"purpose": ["excursions",
