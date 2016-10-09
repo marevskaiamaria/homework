@@ -11,7 +11,7 @@
 					   "Meteora",
 					   "Delphi",
 					   "Corinth",
-					   "Sparta",
+					   "Sparta"
 			          ]
 			"stars": ["3",
 			          "4",
@@ -25,7 +25,7 @@
 			"price": "30000",
 			"cities": ["Athens", 
 			           "Thessaloniki",
-			           "Meteora",
+			           "Meteora"
 			          ]
 			"stars": "3",
 			"purpose": "excursions",
@@ -38,7 +38,7 @@
 			"cities": "Heraklion", 
 			"stars": "4",
 			"purpose": ["excursions",
-			            "sea",
+			            "sea"
 			            ]
 			}
 		]
