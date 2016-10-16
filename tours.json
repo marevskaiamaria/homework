@@ -17,7 +17,7 @@
 		    "4"
                    ],	
 	  "purpose": "excursions"	  
-	  }
+	  },
 
 	  {
 	  "name": "Greece briefly",
@@ -29,17 +29,17 @@
 		    ],
 	  "stars": "3",
 	  "purpose": "excursions"
-	  }
+	  },
 			
 	  {
 	  "name": "Crete",
 	  "days": "7",
 	  "price": "40000",
-	  "cities": "Heraklion", 
+	  "cities": ["Heraklion"], 
 	  "stars": "4",
 	  "purpose": ["excursions",
 		      "sea"
-	             ],
+	             ]
 	  }
 	  ]
 }
